@@ -5,5 +5,5 @@ let newChange;
 console.log(111);
 
 const helloWorldFunc = () => {
-    console.log(214124)
+    console.log(214124);
 }
